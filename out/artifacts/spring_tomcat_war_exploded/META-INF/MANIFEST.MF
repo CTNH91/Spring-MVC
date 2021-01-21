@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: HOANG
+Build-Jdk: 1.8.0_241
+Implementation-Title: spring-tomcat
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.christopher
+Main-Class: ${start-class}
+
